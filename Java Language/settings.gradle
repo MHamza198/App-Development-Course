@@ -1,0 +1,8 @@
+rootProject.name = "JavaLanguage"
+include ':app'
+include ':java'
+include ':Java'
+include ':JavaLanguage'
+include ':Javal'
+include ':Languagejava'
+include ':mylibrary'

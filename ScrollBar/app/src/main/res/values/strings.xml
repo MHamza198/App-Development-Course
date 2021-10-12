@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">ScrollBar</string>
+    <string name="textview">Java is an Object-Oriented Programming (OOP) structure.
+...
+Java is a class-based programming language.
+Java technology is used for developing both, applets and applications.
+Provides an easy to use: ...
+Provides an interpreted environment: ...
+Loads classes dynamically, in other words when they are actually needed.
+    Java Concept
+
+Sun Microsystems created the Java language.  Java is a case-sensitive programming language, like C++.  Java is an Object-Oriented Programming (OOP) structure.  Java is a class-based programming language.
+Java technology is used for developing both, applets and applications.
+
+Provides an easy to use:
+Avoids many of the pitfalls of other languages
+Bing object-oriented
+Enables code streamlining
+
+Provides an interpreted environment:
+Improved speed of development.
+Code portability.
+
+Loads classes dynamically, in other words when they are actually needed.
+
+Supports changing programs dynamically, during runtime, by loading classes from a distinct source.
+
+Furnishes better security.
+
+Enables use of more than one thread of activity.
+
+The Java Virtual Machine (JVM).
+
+Garbage collection.
+
+The Java Runtime Environment (JRE).
+
+JVM tool interface.
+
+JVM provides definitions for the:
+Instruction Set (Central Processing Unit (CPU))
+Register set
+Class file format
+Runtime stack
+Garbage–collected head
+Memory area
+Fatal error reporting mechanism
+High –precision timing support
+
+Garbage collection has the following characteristics:
+Check for and frees memory no longer needed, automatically.
+Provides a system-level thread to track memory allocation.
+
+The JVM does the following three main tasks:
+Loads code: performed by the class loader.
+Verifies code: performed by the byte code verifies.
+Executes code: performed by the runtime interface.
+
+There are the following five primary workflows of a software developing project:
+
+Requirement capturing, analysis, design, implementation, and testing.
+
+Abstraction, means ignoring the non-essential details of an object and concentrating on its essential details.
+
+Encapsulation provides data representation flexibility, by hiding the implementation details of a class.  It loads all the classes necessary, for the execution of the program.
+
+Maintains classes of the local file system, in a separate namespace.
+
+Avoids execution of the program whose byte code has been changed illegally.
+
+Example with a simple Java program
+
+Open Notepad and type in this program, maintaining the upper and lower case, because Java is a case-sensitive programming language.</string>
+
+</resources>

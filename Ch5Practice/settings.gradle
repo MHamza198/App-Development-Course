@@ -1,0 +1,2 @@
+rootProject.name = "Ch5Practice"
+include ':app'

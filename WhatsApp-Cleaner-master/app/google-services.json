@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741098133569",
+    "project_id": "cleaner-7ea7d",
+    "storage_bucket": "cleaner-7ea7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741098133569:android:52a6f191ff60c17e604ec0",
+        "android_client_info": {
+          "package_name": "com.dude260.files_cleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741098133569-tucqciap8nk26jlmssikcskv5nnmjgsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4ODM_4Jl7rtEzbf3UtTP3zt8xVi-nGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741098133569-tucqciap8nk26jlmssikcskv5nnmjgsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
